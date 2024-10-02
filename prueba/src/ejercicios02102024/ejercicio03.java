@@ -5,6 +5,6 @@ public class ejercicio03 {
 		int altura = 2;
 		int base = 2;
 		int area = base * altura;
-		System.out.println("el area es: " + altura);
+		System.out.println("el area es: " + area);
 	}
 }
