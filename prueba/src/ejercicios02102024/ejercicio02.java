@@ -1,6 +1,6 @@
-package Ejercicios02102024;
+package ejercicios02102024;
 
-public class ejercicio2 {
+public class ejercicio02 {
 	public static void main(String[] args) {
 		int n1 = 2;
 		int n2 = 4;
