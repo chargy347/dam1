@@ -14,6 +14,7 @@ public class DNI extends JFrame {
 	/**
 	 * Launch the application.
 	 */
+	GDGFDGFDF
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
