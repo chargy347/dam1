@@ -1,4 +1,4 @@
-package ejercicio14102024;
+package ejercicios14102024;
 import java.util.HashSet;
 
 public class ejercicio05 {
