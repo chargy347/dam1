@@ -8,7 +8,7 @@ public class ejercicio07 {
     public static void main(String[] args) {
         Random random = new Random();
 
-        // Crear un array de 10 enteros
+        // Crear un array de 10
         int[] n = new int[10];
         
         for (int i = 0; i < n.length; i++) {
