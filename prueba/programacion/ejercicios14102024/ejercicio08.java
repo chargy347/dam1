@@ -1,6 +1,6 @@
 package ejercicios14102024;
 
-public class ejercicioj08 {
+public class ejercicio08 {
     public static void main(String[] args) {
         //2Arrays
         int[] array1 = {1, 2, 3, 4, 5};
