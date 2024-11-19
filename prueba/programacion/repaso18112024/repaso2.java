@@ -10,12 +10,5 @@ public class repaso2 {
 				System.out.println(mayor);
 			}
 		}
-		int menor = valores[0];
-		for (int i=1; i>valores.length;i++) {
-			if(valores[i]<menor) {
-				menor = valores[i];
-				System.out.println(menor);
-			}
-		}
 	}
 }
