@@ -7,5 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="programacion"/>
 	<classpathentry kind="src" path="entornos"/>
+	<classpathentry kind="src" path="PROGRAMACION_2DAEVA"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
